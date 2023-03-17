@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 846 Div 2/A. Hayato and School" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 846 Div 2/B. GCD Partition" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - AtCoder Regular Contest 158/E - All Pair Shortest Paths" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - AtCoder Regular Contest 158/F - Random Radix Sort" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - AtCoder Regular Contest 158/A - +3 +5 +7" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - AtCoder Regular Contest 158/B - Sum-Product Ratio" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - AtCoder Regular Contest 158/C - All Pair Digit Sums" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - AtCoder Regular Contest 158/D - Equation" />
+    </content>
+  </component>
+</module>
